@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634086548741",
+    "project_id": "authproject-bbb9c",
+    "storage_bucket": "authproject-bbb9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634086548741:android:f4e69f9233684fc5edc36c",
+        "android_client_info": {
+          "package_name": "com.authproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyp5hodd-QDs31Fc_J4GIBB8Rcgwu1Kyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
